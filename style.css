@@ -10,6 +10,7 @@ body{
     width: 100%;
     height: 460vh;
     background-image: linear-gradient(#463e67, #473f68, #463e68);
+    overflow:hideen;
 }
 
 .landing{
